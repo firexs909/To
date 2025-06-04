@@ -371,11 +371,89 @@ https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Vancouver FC" tvg-name="18:00 Canadian Premier League : Valour vs Vancouver FC - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Valour_vs_Vancouver%20FC.png" group-title="Calcio", Fox Soccer Plus
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/Germany_national_football_team_logo_Deutscher_Fussball-Bund.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/485/original/germany-flag-round-shape-free-png.png" group-title="Calcio", TF1 France
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/Germany_national_football_team_logo_Deutscher_Fussball-Bund.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/485/original/germany-flag-round-shape-free-png.png" group-title="Calcio", SuperSport Premier League
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Gauff C." tvg-name="11:00 WTA - ROLAND GARROS : Keys M. vs Gauff C. - 04/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Gauff C." tvg-name="11:00 WTA - ROLAND GARROS : Keys M. vs Gauff C. - 04/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Gauff C." tvg-name="11:00 WTA - ROLAND GARROS : Keys M. vs Gauff C. - 04/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/30/30982.png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Andreeva M. vs Boisson L." tvg-name="12:30 WTA - ROLAND GARROS : Andreeva M. vs Boisson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Andreeva%20M._vs_Boisson%20L..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Dodig I./Luz O. vs Granollers M./Zeballos H." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Dodig I./Luz O. vs Granollers M./Zeballos H. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Zeballos%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 3
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Dodig I./Luz O. vs Granollers M./Zeballos H." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Dodig I./Luz O. vs Granollers M./Zeballos H. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Zeballos%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 23
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 2
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 21
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 22
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Eikeri U./Hozumi E. - 04/06/25" tvg-logo="https://www.globalfoodproduct.com/wp-content/uploads/2023/08/Super-Slices-250g.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 3
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Eikeri U./Hozumi E. - 04/06/25" tvg-logo="https://www.globalfoodproduct.com/wp-content/uploads/2023/08/Super-Slices-250g.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 23
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 2
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 21
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 22
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Errani S./Vavassori A. vs Zhang S./Arevalo M." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Errani S./Vavassori A. vs Zhang S./Arevalo M. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Arevalo%20M..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 3
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Errani S./Vavassori A. vs Zhang S./Arevalo M." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Errani S./Vavassori A. vs Zhang S./Arevalo M. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/Arevalo%20M..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 23
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Krawczyk D./Skupski N. vs Townsend T./King E." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Krawczyk D./Skupski N. vs Townsend T./King E. - 04/06/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/100x100/14159.png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 3
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Krawczyk D./Skupski N. vs Townsend T./King E." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Krawczyk D./Skupski N. vs Townsend T./King E. - 04/06/25" tvg-logo="https://s.hs-data.com/gfx/competition/png/normal/100x100/14159.png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 23
+https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="14:00 Roland-Garros Men | Singles | Quarter-Final - 04/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true
@@ -671,34 +749,34 @@ https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.da
 #EXTINF:-1 tvg-id="Basquetebol - FC Porto vs Sporting CP - Camp. Nacional" tvg-name="21:00 Basquetebol: FC Porto vs Sporting CP - Camp. Nacional - 04/06/25" tvg-logo="https://raw.githubusercontent.com/firexs909/To/main/logos/FC%20Porto_vs_Sporting%20CP%20-%20Camp.%20Nacional.png" group-title="Basket", DAZN Eleven 1 Portugal
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", Movistar Deportes Spain
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", M+ Vamos Spain
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", M+ Vamos Spain
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", DAZN Eleven 3 Portugal
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", Arena Sport 1 Serbia
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", Canal+ Sport 5 Poland HD
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", Canal+ Sport 5 Poland HD
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-75.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", Sportdigital+ DE
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", Sportdigital+ DE
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", DAZN Eleven 3 Portugal
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", Cosmote Sport 7 Greece
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", Cosmote Sport 7 Greece
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", Sportklub 4 Croatia
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket", Sport 4 Israel
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket", Sport 4 Israel
 https://mfpmod.mac4.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km)" tvg-name="13:30 Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - 04/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 3 UK
